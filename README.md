@@ -54,14 +54,13 @@ Google-UI-Clone/
 
 ```bash
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+```
 
 ## ✍️ Author
 
 **GULAM MOHYUDIN MEMON**
 Feel free to connect or suggest improvements.
 
-
 ---
 
 💬 This project was built for learning and UI practice. Feel free to fork or improve it!
-```
